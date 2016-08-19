@@ -1,2 +1,8 @@
 # emacs
-Build emacs from source with CentOS.
+CentOS上で、emacsをソースからビルドするリポジトリです。
+
+---
+
+## ファイル構成
+
+## リリース方法
